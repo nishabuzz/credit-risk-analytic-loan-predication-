@@ -1,7 +1,7 @@
 1# -*- coding: utf-8 -*-
 """
 Spyder Editor
-@author:joy 
+@author:Nisha Singh
 """
 #(1)LOADING DATA
 #Import libraries
